@@ -1,0 +1,14 @@
+To start working:
+
+git status
+git pull origin main
+.\.venv\Scripts\Activate.ps1
+mkdocs serve
+
+
+
+To upload work:
+
+git add .
+git commit -m "Actualizare documentatie"
+git push origin main
