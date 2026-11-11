@@ -2,3 +2,13 @@ site_name: My site
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  language: ro
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: blue
+
+nav:
+  - Acasă: index.md
+  - Despre: despre.md
+  - Contact: contact.md

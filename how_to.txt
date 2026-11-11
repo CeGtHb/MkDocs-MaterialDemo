@@ -1,0 +1,35 @@
+To start working:
+
+git status
+git pull origin main
+.\.venv\Scripts\Activate.ps1
+mkdocs serve
+
+la final opresc serverul local cu Ctrl+C
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+To upload work:
+
+git add .
+git commit -m "Actualizare documentatie"
+git push origin main
+
+/////////////////////////////////////////
+
+1	Crearea paginilor și structura site-ului
+https://squidfunk.github.io/mkdocs-material/creating-your-site/
+
+2	Markdown: titluri, linkuri, imagini, liste
+https://www.mkdocs.org/user-guide/writing-your-docs/
+
+3	Meniuri, navigare și tab-uri
+https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+
+4	Culori, mod întunecat și aspect
+https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+
+
+5	Componente pentru conținut
+https://squidfunk.github.io/mkdocs-material/reference/
+
