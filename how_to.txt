@@ -1,5 +1,7 @@
+=========================================
+------------------
 To start working:
-
+------------------
 git status
 git pull origin main
 .\.venv\Scripts\Activate.ps1
@@ -7,15 +9,17 @@ mkdocs serve
 
 la final opresc serverul local cu Ctrl+C
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+------------------
 To upload work:
-
+------------------
 git add .
 git commit -m "Actualizare documentatie"
 git push origin main
+=========================================
 
 /////////////////////////////////////////
+Documentation:
 
 1	Crearea paginilor și structura site-ului
 https://squidfunk.github.io/mkdocs-material/creating-your-site/
@@ -33,3 +37,14 @@ https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 5	Componente pentru conținut
 https://squidfunk.github.io/mkdocs-material/reference/
 
+/////////////////////////////////////////
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Pentru matematica folosim MathJax
+
+Ce inveti
+Sintaxa matematica LaTeX  ==>  Ca sa stii sa scrii fractii, integrale, matrice etc.
+Configurarea MathJax      ==>  Ca formulele sa fie afișate corect pe site
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

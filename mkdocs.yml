@@ -1,5 +1,5 @@
 site_name: My site
-site_url: https://mydomain.org/mysite
+site_url: https://cegthb.github.io/MkDocs-MaterialDemo/
 theme:
   name: material
   language: ro
@@ -7,6 +7,14 @@ theme:
     scheme: slate
     primary: indigo
     accent: blue
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js    
 
 nav:
   - Acasă: index.md
