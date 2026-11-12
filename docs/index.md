@@ -11,7 +11,7 @@ Acesta este primul meu site creat cu MkDocs Material.
 
 # Matematică
 
-Formula ecuației de gradul al doilea:
+Formula ecuației de gradul al doilea este:
 
 $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
