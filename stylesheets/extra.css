@@ -1,0 +1,18 @@
+/* Subcapitole expandabile: Ecuatii, Polinoame etc. */
+.md-nav--primary .md-nav__item--nested > .md-nav__link {
+    font-weight: 700;
+    color: #81c784;
+    border-left: 3px solid #81c784;
+    padding-left: 10px;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.25);
+    padding-bottom: 8px;
+}
+
+/* Pagina principala a sectiunii: Algebra */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+    color: #e5e7eb;
+    font-weight: 700;
+    font-size: 0.85rem;
+    border-left: none;
+    padding-left: 0;
+}
