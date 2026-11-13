@@ -1,18 +1,9 @@
+---
+hide:
+  - navigation
+---
 # Bine ai venit!
 
-Acesta este primul meu site creat cu MkDocs Material.
+Alege sectiunea care te intereseaza pentru a gasi rapid cele mai relevante informatii.
 
-## Despre proiect
-
-Învăț să construiesc un site de documentație.
-
-[Vezi pagina Despre](despre.md)
-
-
-# Matematică
-
-Formula ecuației de gradul al doilea este:
-
-$$
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-$$
+[Vezi pagina cu Exemple](code-examples.md)

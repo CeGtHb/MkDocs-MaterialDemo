@@ -1,11 +1,14 @@
 site_name: My site
 site_url: https://cegthb.github.io/MkDocs-MaterialDemo/
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   language: ro
   features:
     - navigation.tabs
-    #- navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
   font:
     text: Merriweather Sans
     code: Red Hat Mono
@@ -54,12 +57,12 @@ extra_javascript:
 
 nav:
   - Acasă: index.md
-  - Despre: despre.md
-  - Test: 
-    - code-examples.md
   - Algebra:
-    - algebra/alg-page1.md
-    - algebra/alg-page2.md
+    - Introducere: algebra/index.md
+    - Ecuații:
+      - Gradul I: algebra/ecuatii/grad1.md
+      - Gradul II: algebra/ecuatii/grad2.md
+
   - Geometrie:
     - geometrie/geo-page1.md
     - geometrie/geo-page2.md

@@ -1,3 +1,0 @@
-despre site
-
-xxx
