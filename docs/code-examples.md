@@ -1,3 +1,30 @@
+---
+tags:
+  - Definitii
+  - Teoreme
+  - Formule
+---
+
+## ToDo
+## ALGEBRA
+
+Factor comum
+
+
+
+
+
+## GEOMETRIE
+
+
+
+
+
+exemplu de spatiu vertical
+<div style="height: 20px;"></div>
+
+
+
 ## Highlight
 
 Text can be {--deleted--} and replacement text {++added++}. This can also be

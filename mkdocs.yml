@@ -49,7 +49,11 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - tables      
+  - tables
+
+plugins:
+  - search
+  - tags    
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -59,10 +63,15 @@ nav:
   - Acasă: index.md
   - Algebra:
     - Introducere: algebra/index.md
-    - Ecuații:
-      - Gradul I: algebra/ecuatii/grad1.md
-      - Gradul II: algebra/ecuatii/grad2.md
-
+    - Numere:
+      - Axa numerelor, aproximari: algebra/numere/axa-numerelor-aproximari.md
+      - Operatii, proprietati: algebra/numere/operatii-proprietati.md
+      - Multimi Intervale: algebra/numere/multimi-intervale.md
+    - Puteri:
+      - Puteri cu exponent natural: algebra/puteri/puteri-cu-exponent-natural.md
+    - Divizibilitate:
+      - Divizibilitatea numerelor naturale: algebra/divizibilitate/diviz-numerelor-naturale.md
   - Geometrie:
     - geometrie/geo-page1.md
     - geometrie/geo-page2.md
+  - Etichete: tags.md

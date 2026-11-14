@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="782" height="587" viewBox="0 0 782 587" role="img" aria-labelledby="title desc">
+<title id="title">Rotunjirea numărului 364</title><desc id="desc">Rotunjirea lui 364 la zeci către 360 și la sute către 400, pe două axe numerice.</desc>
+<rect width="782" height="587" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="38" text-anchor="middle" fill="#050505">
+<text x="109" y="76">360</text><text x="365" y="76">365</text><text x="619" y="76">370</text>
+<text x="109" y="406">300</text><text x="365" y="406">350</text><text x="619" y="406">400</text>
+</g>
+<g stroke="#080808" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M37 123 H718 M704 101 L718 123 L704 146"/>
+<path d="M37 453 H718 M704 431 L718 453 L704 479"/>
+</g>
+<g stroke="#d70d38" stroke-width="3.2" stroke-linecap="round" fill="none">
+<path d="M109 108 V136 M365 108 V136 M619 108 V136 M109 438 V466 M365 438 V466 M619 438 V466"/>
+<path d="M324 102 L355 141 M355 102 L321 141"/>
+<path d="M445 432 L474 469 M475 432 L443 469"/>
+</g>
+<g font-family="DejaVu Sans, Arial, sans-serif" font-weight="700">
+<text x="301" y="205" font-size="39" fill="#1715c8">364</text>
+<text x="421" y="536" font-size="39" fill="#1715c8">364</text>
+<text x="165" y="270" font-size="33" fill="#050505">rotunjit</text>
+<text x="614" y="559" font-size="33" fill="#050505">rotunjit</text>
+</g>
+<g fill="none" stroke="#080808" stroke-width="2" stroke-linecap="round">
+<path d="M278 205 C253 234 221 227 188 208"/>
+<path d="M507 530 C543 555 567 547 600 526"/>
+</g>
+<path d="M185 205 L215 207 L194 215 L205 232 Z" fill="#080808"/>
+<path d="M603 524 L573 528 L589 536 L583 550 Z" fill="#080808"/>
+</svg>
