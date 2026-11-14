@@ -54,9 +54,11 @@ $a*(b+c) = a*b+a*c$
 $a*(b-c) = a*b-a*c$  
 
 ==}
-!!! note "Nota"
+!!! note "Nota: Factor comun"
 
-    Inversul distributivitatii este $factorul$ $comun$.
+    Inversul distributivitatii este $factorul$ $comun$.  
+    Exemplu: $12*7-7$  
+    $12*7-7*1=7(12-1)=7*11=77$
 
 <div style="height: 15px;"></div>
 

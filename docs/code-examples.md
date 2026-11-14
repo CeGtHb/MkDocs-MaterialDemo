@@ -8,7 +8,7 @@ tags:
 ## ToDo
 ## ALGEBRA
 
-Factor comum
+
 
 
 

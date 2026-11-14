@@ -66,6 +66,7 @@ nav:
     - Numere:
       - Axa numerelor, aproximari: algebra/numere/axa-numerelor-aproximari.md
       - Operatii, proprietati: algebra/numere/operatii-proprietati.md
+      - Sume Gauss: algebra/numere/sume-gauss.md
       - Multimi Intervale: algebra/numere/multimi-intervale.md
     - Puteri:
       - Puteri cu exponent natural: algebra/puteri/puteri-cu-exponent-natural.md
