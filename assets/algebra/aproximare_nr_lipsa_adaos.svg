@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 704 467" width="704" height="467" role="img" aria-labelledby="title desc">
+  <title id="title">Aproximare prin lipsă și prin adaos</title>
+  <desc id="desc">Două axe numerice: 364 între 360 și 370, respectiv între 300 și 400. Săgeți pentru lipsă și adaos.</desc>
+  <rect width="704" height="467" fill="#FFFFFF"/>
+  <g fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="3.2">
+      <path d="M21 184.5 H625 M614 164 L625 184.5 L614 207"/>
+      <path d="M21 426 H625 M614 405.5 L625 426 L614 448"/>
+    </g>
+    <g stroke="#df1642" stroke-width="3.2">
+      <path d="M85 170 V196 M537 170 V196 M291 166 L317 199 M317 166 L288 199"/>
+      <path d="M85 412 V437 M537 412 V437 M291 407 L317 440 M317 407 L288 440"/>
+    </g>
+    <g stroke-width="2.1">
+      <path d="M262 97 Q226 66 180 91"/>
+      <path d="M200 76 L180 91 L204 96" fill="#111111" stroke="none"/>
+      <path d="M352 97 Q385 69 435 94"/>
+      <path d="M415 77 L435 94 L411 100" fill="#111111" stroke="none"/>
+      <path d="M262 338 Q226 307 180 332"/>
+      <path d="M200 317 L180 332 L204 337" fill="#111111" stroke="none"/>
+      <path d="M352 338 Q385 310 435 335"/>
+      <path d="M415 318 L435 335 L411 341" fill="#111111" stroke="none"/>
+    </g>
+  </g>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <g font-size="33"><text x="185" y="53">lipsă</text><text x="450" y="53">adaos</text><text x="185" y="291">lipsă</text><text x="450" y="291">adaos</text></g>
+    <g font-size="37"><text x="85" y="143">360</text><text x="303" y="143">364</text><text x="537" y="143">370</text><text x="85" y="384">300</text><text x="303" y="384">364</text><text x="537" y="384">400</text></g>
+  </g>
+</svg>
